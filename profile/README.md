@@ -1,6 +1,6 @@
 # Nashik Coders Community
 
-![Nashik Coders Community](https://i.ibb.co/5KzRkHK/Screenshot-2023-01-13-at-15-11-53.png)
+![Nashik Coders Community](https://serving.photos.photobox.com/6688337982ee016636fbafbc33d7c4639056db8b7c93a22c8d6b782b35d381d44da4a338.jpg)
 
 The **Nashik Coders Community** is a group of software developers based in the city of Nashik, Maharashtra, India. This organization's main goal is to create a community of like-minded individuals who are passionate about software development and technology. The community aims to provide a platform for its members to share their knowledge and experience, collaborate on projects, and learn new skills.
 
